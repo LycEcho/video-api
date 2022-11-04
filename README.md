@@ -2,10 +2,10 @@
 获取头条-百家-企鹅-大鱼（视频或则文章）url-免费api接口
 
 ### 官网在线体验:
-http://video.lycecho.com/
+<a href="http://video.lycecho.com/" target="_blank">http://video.lycecho.com/</a>
 
 ### 请求API:
-http://video.lycecho.com/get_list
+<a href="http://video.lycecho.com/get_list" target="_blank">http://video.lycecho.com/get_list</a>
 
 ### 请求方式:
 GET
